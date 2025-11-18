@@ -1,0 +1,235 @@
+# Ukrainian Education Survey Analysis - Configuration File
+
+# Project Metadata
+project:
+  name: "Ukrainian Education Survey Analysis"
+  version: "1.0.0"
+  description: "Analysis of digital education environments in Ukrainian schools"
+  survey_period: "2024-10-07 to 2024-10-18"
+  sample_size: 5224
+
+# Data Configuration
+data:
+  input:
+    formats: ["csv", "tsv", "xlsx"]
+    encoding: "utf-8"
+    delimiter: ","
+    language: "uk"  # Ukrainian
+
+  paths:
+    raw: "data/raw/"
+    processed: "data/processed/"
+    outputs: "data/outputs/"
+
+  validation:
+    min_response_completeness: 0.7  # 70% of questions answered
+    max_duplicate_threshold: 0.01   # 1% duplicates allowed
+    check_timestamp_range: true
+
+  quality_thresholds:
+    completeness: 0.95
+    accuracy: 0.99
+    consistency: 0.90
+
+# Survey Structure
+survey:
+  total_questions: 22
+
+  question_types:
+    demographic: [1, 2, 3, 4, 5]  # Region, settlement, school type, grade, child count
+    educational_format: [6, 7, 8]  # Learning format questions
+    digital_environment: [9, 10, 11, 12, 13, 14, 15]  # Platform and communication
+    skills_assessment: [16, 17, 18, 19, 20, 21]  # Digital skills and support
+    open_ended: [22]  # Improvement suggestions
+
+  regions:
+    - "Вінницька"
+    - "Волинська"
+    - "Дніпропетровська"
+    - "Донецька"
+    - "Житомирська"
+    - "Закарпатська"
+    - "Запорізька"
+    - "Івано-Франківська"
+    - "Київська"
+    - "Кіровоградська"
+    - "Луганська"
+    - "Львівська"
+    - "Миколаївська"
+    - "Одеська"
+    - "Полтавська"
+    - "Рівненська"
+    - "Сумська"
+    - "Тернопільська"
+    - "Харківська"
+    - "Херсонська"
+    - "Хмельницька"
+    - "Черкаська"
+    - "Чернівецька"
+    - "Чернігівська"
+    - "м. Київ"
+
+# Analysis Configuration
+analysis:
+  descriptive:
+    generate_frequencies: true
+    generate_crosstabs: true
+    calculate_percentages: true
+    include_missing_analysis: true
+
+  statistical_tests:
+    significance_level: 0.05
+    correction_method: "bonferroni"  # For multiple comparisons
+    min_cell_count: 5  # For chi-square tests
+
+  text_analysis:
+    language: "uk"
+    min_word_length: 3
+    max_features: 1000
+    n_topics: 10
+    remove_stopwords: true
+    stemming: false
+    lemmatization: true
+
+  regional:
+    create_maps: true
+    compare_regions: true
+    identify_outliers: true
+
+  war_impact:
+    analyze_format_shifts: true
+    assess_infrastructure_resilience: true
+    identify_challenges: true
+
+# Visualization Configuration
+visualization:
+  style: "seaborn-v0_8-darkgrid"
+  color_palette: "Set2"
+  figure_size: [12, 8]
+  dpi: 300
+  font_family: "DejaVu Sans"
+
+  charts:
+    bar_charts: true
+    stacked_bars: true
+    heatmaps: true
+    choropleth: true
+    sankey: true
+    wordclouds: true
+    network_graphs: true
+
+  export_formats: ["png", "svg", "pdf"]
+
+  dashboard:
+    theme: "bootstrap"
+    port: 8050
+    debug: false
+    host: "0.0.0.0"
+
+# Report Generation
+reports:
+  languages: ["uk", "en"]  # Ukrainian and English
+
+  formats:
+    executive_summary: "pdf"
+    detailed_report: "pdf"
+    regional_reports: "pdf"
+    data_tables: "xlsx"
+    infographics: "png"
+
+  templates:
+    path: "config/templates/"
+    executive: "executive_summary_template.html"
+    regional: "regional_report_template.html"
+
+  sections:
+    - "Executive Summary"
+    - "Methodology"
+    - "Demographic Overview"
+    - "Educational Formats Analysis"
+    - "Digital Environment Assessment"
+    - "Regional Disparities"
+    - "Student Digital Skills"
+    - "Text Analysis Insights"
+    - "War Impact Analysis"
+    - "Recommendations"
+    - "Appendices"
+
+# Performance Configuration
+performance:
+  chunk_size: 1000
+  n_jobs: -1  # Use all available cores
+  cache_enabled: true
+  cache_dir: ".cache/"
+
+  memory:
+    max_memory_gb: 8
+    optimize_dtypes: true
+
+  processing:
+    parallel_processing: true
+    batch_size: 500
+
+# Logging Configuration
+logging:
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR, CRITICAL
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "logs/analysis.log"
+  console: true
+  rotate: true
+  max_bytes: 10485760  # 10MB
+  backup_count: 5
+
+# Privacy and Security
+privacy:
+  anonymize_respondents: true
+  remove_pii: true
+  encrypt_at_rest: false
+  audit_logging: true
+
+  retention:
+    raw_data_days: 365
+    processed_data_days: 730
+    reports_permanent: true
+
+# Export Configuration
+export:
+  excel:
+    engine: "openpyxl"
+    include_formulas: false
+    freeze_panes: true
+
+  csv:
+    encoding: "utf-8"
+    quoting: "minimal"
+
+  json:
+    ensure_ascii: false
+    indent: 2
+
+# Feature Flags
+features:
+  enable_ml_predictions: false
+  enable_real_time_dashboard: true
+  enable_api: false
+  enable_geographic_viz: true
+  enable_text_sentiment: false
+  enable_automated_insights: true
+
+# External Services (optional)
+external:
+  translation_api:
+    enabled: false
+    provider: "google"
+    api_key_env: "TRANSLATION_API_KEY"
+
+  geocoding:
+    enabled: false
+    provider: "nominatim"
+
+# Development Settings
+development:
+  debug: true
+  profiling: false
+  sample_data_size: null  # null means use full dataset
+  skip_slow_tests: false
