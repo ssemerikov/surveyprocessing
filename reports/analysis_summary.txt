@@ -1,0 +1,86 @@
+================================================================================
+UKRAINIAN EDUCATION SURVEY - ANALYSIS SUMMARY
+================================================================================
+
+Analysis Date: 2025-11-18 21:56:15
+Data Source: data/raw/answers.csv
+
+DATASET OVERVIEW
+--------------------------------------------------------------------------------
+Total Responses: 5,224
+Total Questions: 26
+Memory Usage: 13.15 MB
+Duplicate Responses: 0
+
+DATA QUALITY
+--------------------------------------------------------------------------------
+Complete Rows: 58 (1.1%)
+Rows with Missing Data: 5,166 (98.9%)
+
+TOP 10 REGIONS
+--------------------------------------------------------------------------------
+Харківська область              1479 (28.31%)
+Одеська область                  737 (14.11%)
+Львівська область                586 (11.22%)
+Київська область                 535 (10.24%)
+Дніпропетровська область         370 ( 7.08%)
+Миколаївська область             203 ( 3.89%)
+Полтавська область               187 ( 3.58%)
+Кіровоградська область           187 ( 3.58%)
+Житомирська область              158 ( 3.02%)
+Рівненська область               127 ( 2.43%)
+
+GRADE DISTRIBUTION
+--------------------------------------------------------------------------------
+Grade Facebook                17 ( 0.33%)
+Grade Facebook, Instagram      3 ( 0.06%)
+Grade Facebook, Telegram       5 ( 0.10%)
+Grade Facebook, TikTok, Telegram     1 ( 0.02%)
+Grade Facebook, Twitter, Viber, TikTok, Instagram, WhatsUp, Telegram, Signal     1 ( 0.02%)
+Grade Facebook, Viber         93 ( 1.78%)
+Grade Facebook, Viber, Instagram     9 ( 0.17%)
+Grade Facebook, Viber, Instagram, Telegram    12 ( 0.23%)
+Grade Facebook, Viber, Instagram, Telegram, Signal     1 ( 0.02%)
+Grade Facebook, Viber, Instagram, WhatsUp, Telegram     6 ( 0.11%)
+Grade Facebook, Viber, Instagram, Інше     1 ( 0.02%)
+Grade Facebook, Viber, Signal     1 ( 0.02%)
+Grade Facebook, Viber, Telegram    54 ( 1.03%)
+Grade Facebook, Viber, TikTok     1 ( 0.02%)
+Grade Facebook, Viber, TikTok, Instagram     2 ( 0.04%)
+Grade Facebook, Viber, TikTok, Instagram, Telegram     4 ( 0.08%)
+Grade Facebook, Viber, TikTok, Instagram, WhatsUp, Telegram     4 ( 0.08%)
+Grade Facebook, Viber, TikTok, Telegram, Signal     1 ( 0.02%)
+Grade Facebook, Viber, TikTok, WhatsUp     1 ( 0.02%)
+Grade Facebook, Viber, TikTok, WhatsUp, Telegram, Інше     1 ( 0.02%)
+Grade Facebook, Viber, WhatsUp     2 ( 0.04%)
+Grade Facebook, Viber, WhatsUp, Telegram     2 ( 0.04%)
+Grade Facebook, Viber, Інше     1 ( 0.02%)
+Grade Facebook, WhatsUp        1 ( 0.02%)
+Grade Instagram                2 ( 0.04%)
+Grade Instagram, Telegram      2 ( 0.04%)
+Grade Signal                   3 ( 0.06%)
+Grade Telegram               241 ( 4.61%)
+Grade Telegram, Інше           3 ( 0.06%)
+Grade TikTok                   4 ( 0.08%)
+Grade TikTok, Telegram         2 ( 0.04%)
+Grade Twitter, Viber, Telegram     1 ( 0.02%)
+Grade Viber                 4100 (78.48%)
+Grade Viber, Instagram         3 ( 0.06%)
+Grade Viber, Instagram, Telegram     4 ( 0.08%)
+Grade Viber, Instagram, WhatsUp     1 ( 0.02%)
+Grade Viber, Instagram, WhatsUp, Telegram     3 ( 0.06%)
+Grade Viber, Instagram, WhatsUp, Інше     1 ( 0.02%)
+Grade Viber, Instagram, Інше     1 ( 0.02%)
+Grade Viber, Reddit            1 ( 0.02%)
+Grade Viber, Signal            1 ( 0.02%)
+Grade Viber, Telegram        449 ( 8.59%)
+Grade Viber, Telegram, Інше    13 ( 0.25%)
+Grade Viber, TikTok            2 ( 0.04%)
+Grade Viber, WhatsUp          14 ( 0.27%)
+Grade Viber, WhatsUp, Telegram    19 ( 0.36%)
+Grade Viber, WhatsUp, Інше     1 ( 0.02%)
+Grade Viber, Інше             84 ( 1.61%)
+Grade WhatsUp                  2 ( 0.04%)
+Grade WhatsUp, Signal          1 ( 0.02%)
+Grade WhatsUp, Telegram        2 ( 0.04%)
+Grade Інше                    40 ( 0.77%)
