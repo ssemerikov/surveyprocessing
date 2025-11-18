@@ -251,8 +251,10 @@ python verify_code_structure.py
 - **Metadata Preparation**: Olha Pinchuk (https://orcid.org/0000-0002-2770-0838), Serhiy Semerikov (https://orcid.org/0000-0003-0789-0272)
 
 ### Analysis Software
-- Built for the Institute for Digitalisation of Education of the NAES of Ukraine
-- Developed as part of research project № 0123U100497
+- **Author**: Serhiy O. Semerikov (https://orcid.org/0000-0003-0789-0272)
+- **Tool**: Claude Code for Web (Anthropic)
+- **Built for**: Institute for Digitalisation of Education of the NAES of Ukraine
+- **Research Project**: № 0123U100497 "Methodology of monitoring research on the effectiveness of information and digital environment of general secondary education institutions in the context of Ukraine's European integration"
 
 ---
 
