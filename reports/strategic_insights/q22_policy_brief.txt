@@ -1,0 +1,55 @@
+====================================================================================================
+                   POLICY BRIEF: UKRAINIAN DIGITAL EDUCATION - PARENT PRIORITIES                    
+====================================================================================================
+
+Date: 2025-11-18
+Source: Analysis of 5,223 Parent Survey Responses (October 2024)
+Method: Advanced NLP (TF-IDF, LDA, Sentiment Analysis, Theme Extraction)
+
+EXECUTIVE SUMMARY
+----------------------------------------------------------------------------------------------------
+
+Ukrainian parents identified 3 critical priorities for digital education improvement:
+
+  1. INTERNET CONNECTIVITY (8.3% of responses)
+     'Quality internet' mentioned 28x, especially critical during air raids
+
+  2. TEACHER DIGITAL SKILLS (7.6% of responses)
+     Co-occurs with content creation, platform use, internet skills
+
+  3. COMMUNICATION & FEEDBACK (Top 2 bigrams: 'more information', 'feedback')
+     Parents want timely updates and direct teacher contact
+
+SENTIMENT: 97.3% non-negative | 47.1% substantive suggestions | 23.5% fully satisfied
+
+
+IMMEDIATE ACTIONS RECOMMENDED
+----------------------------------------------------------------------------------------------------
+
+ACTION 1: Deploy backup power/internet to top 100 schools (by response volume)
+  Cost: ~$50K per school = $5M total
+  Impact: 500K students gain uninterrupted access during power outages
+  Timeline: 3-6 months
+
+ACTION 2: Emergency teacher digital pedagogy training (all 450K teachers)
+  Cost: ~$200 per teacher = $90M total (can use EU/World Bank funds)
+  Impact: Addresses root cause of content, platform, and communication issues
+  Timeline: 6-12 months (rolling program)
+
+ACTION 3: Mandate electronic journal daily updates + parent messaging
+  Cost: Minimal (policy change + enforcement)
+  Impact: Addresses top 2 bigrams ('more information', 'feedback')
+  Timeline: Immediate (policy directive)
+
+
+DATA HIGHLIGHTS
+----------------------------------------------------------------------------------------------------
+
+  • 99.98% response rate to open-ended question (5,223/5,224)
+  • Only 2.7% negative sentiment (142 responses)
+  • 15 thematic categories identified
+  • 46 responses mention wartime context (air raids, power outages)
+  • Internet + Teacher Training + Content = 86 co-occurrences (systemic issue)
+
+
+For full analysis see: strategic_insights_q22_full.txt

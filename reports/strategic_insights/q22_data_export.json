@@ -1,0 +1,362 @@
+{
+  "metadata": {
+    "analysis_date": "2025-11-18T22:08:25.479907",
+    "total_responses": 5224,
+    "substantive_responses": 2462
+  },
+  "top_themes": [
+    {
+      "Theme": "інше",
+      "Count": 3852,
+      "Percentage": "73.7%"
+    },
+    {
+      "Theme": "інтернет",
+      "Count": 436,
+      "Percentage": "8.3%"
+    },
+    {
+      "Theme": "навчання_вчителів",
+      "Count": 398,
+      "Percentage": "7.6%"
+    },
+    {
+      "Theme": "навчання_контент",
+      "Count": 375,
+      "Percentage": "7.2%"
+    },
+    {
+      "Theme": "платформи",
+      "Count": 205,
+      "Percentage": "3.9%"
+    },
+    {
+      "Theme": "електронний_журнал",
+      "Count": 140,
+      "Percentage": "2.7%"
+    },
+    {
+      "Theme": "комунікація",
+      "Count": 128,
+      "Percentage": "2.5%"
+    },
+    {
+      "Theme": "обладнання",
+      "Count": 121,
+      "Percentage": "2.3%"
+    },
+    {
+      "Theme": "доступ",
+      "Count": 113,
+      "Percentage": "2.2%"
+    },
+    {
+      "Theme": "сайт_школи",
+      "Count": 70,
+      "Percentage": "1.3%"
+    }
+  ],
+  "top_words": [
+    {
+      "Word": "навчання",
+      "Count": 264
+    },
+    {
+      "Word": "щоб",
+      "Count": 239
+    },
+    {
+      "Word": "більше",
+      "Count": 195
+    },
+    {
+      "Word": "онлайн",
+      "Count": 115
+    },
+    {
+      "Word": "школи",
+      "Count": 107
+    },
+    {
+      "Word": "дітей",
+      "Count": 107
+    },
+    {
+      "Word": "пропозицій",
+      "Count": 104
+    },
+    {
+      "Word": "інтернет",
+      "Count": 101
+    },
+    {
+      "Word": "вчителями",
+      "Count": 98
+    },
+    {
+      "Word": "немає",
+      "Count": 92
+    },
+    {
+      "Word": "діти",
+      "Count": 89
+    },
+    {
+      "Word": "вчителів",
+      "Count": 88
+    },
+    {
+      "Word": "інформації",
+      "Count": 79
+    },
+    {
+      "Word": "час",
+      "Count": 78
+    },
+    {
+      "Word": "інтернету",
+      "Count": 76
+    },
+    {
+      "Word": "завдання",
+      "Count": 76
+    },
+    {
+      "Word": "школі",
+      "Count": 75
+    },
+    {
+      "Word": "уроків",
+      "Count": 74
+    },
+    {
+      "Word": "покращити",
+      "Count": 71
+    },
+    {
+      "Word": "уроки",
+      "Count": 69
+    },
+    {
+      "Word": "доступ",
+      "Count": 69
+    },
+    {
+      "Word": "якість",
+      "Count": 68
+    },
+    {
+      "Word": "зв'язок",
+      "Count": 66
+    },
+    {
+      "Word": "маю",
+      "Count": 65
+    },
+    {
+      "Word": "зробити",
+      "Count": 59
+    },
+    {
+      "Word": "зворотній",
+      "Count": 54
+    },
+    {
+      "Word": "дитина",
+      "Count": 53
+    },
+    {
+      "Word": "дуже",
+      "Count": 51
+    },
+    {
+      "Word": "вчителі",
+      "Count": 50
+    },
+    {
+      "Word": "батьків",
+      "Count": 49
+    }
+  ],
+  "top_bigrams": [
+    {
+      "Bigram": "більше інформації",
+      "Count": 43
+    },
+    {
+      "Bigram": "зворотній зв'язок",
+      "Count": 40
+    },
+    {
+      "Bigram": "щоб діти",
+      "Count": 33
+    },
+    {
+      "Bigram": "немає пропозицій",
+      "Count": 31
+    },
+    {
+      "Bigram": "іншими вчителями",
+      "Count": 30
+    },
+    {
+      "Bigram": "очне навчання",
+      "Count": 29
+    },
+    {
+      "Bigram": "якість інтернету",
+      "Count": 28
+    },
+    {
+      "Bigram": "електронний щоденник",
+      "Count": 25
+    },
+    {
+      "Bigram": "домашнє завдання",
+      "Count": 23
+    },
+    {
+      "Bigram": "маю пропозицій",
+      "Count": 22
+    },
+    {
+      "Bigram": "дистанційного навчання",
+      "Count": 20
+    },
+    {
+      "Bigram": "покращити якість",
+      "Count": 19
+    },
+    {
+      "Bigram": "щоб вчителі",
+      "Count": 18
+    },
+    {
+      "Bigram": "домашні завдання",
+      "Count": 17
+    },
+    {
+      "Bigram": "електронного щоденника",
+      "Count": 17
+    },
+    {
+      "Bigram": "ходити школи",
+      "Count": 17
+    },
+    {
+      "Bigram": "можу відповісти",
+      "Count": 16
+    },
+    {
+      "Bigram": "електронні підручники",
+      "Count": 16
+    },
+    {
+      "Bigram": "зв'язок вчителями",
+      "Count": 16
+    },
+    {
+      "Bigram": "онлайн уроків",
+      "Count": 13
+    }
+  ],
+  "sentiment": [
+    {
+      "Sentiment": "neutral",
+      "Count": 3678,
+      "Percentage": "70.4%"
+    },
+    {
+      "Sentiment": "positive",
+      "Count": 1404,
+      "Percentage": "26.9%"
+    },
+    {
+      "Sentiment": "negative",
+      "Count": 142,
+      "Percentage": "2.7%"
+    }
+  ],
+  "tfidf_keywords": [
+    {
+      "Keyword": "все",
+      "TF-IDF Score": 0.1109309328730711
+    },
+    {
+      "Keyword": "не",
+      "TF-IDF Score": 0.08959926091127286
+    },
+    {
+      "Keyword": "на",
+      "TF-IDF Score": 0.06140599045248472
+    },
+    {
+      "Keyword": "навчання",
+      "TF-IDF Score": 0.05858840301623462
+    },
+    {
+      "Keyword": "більше",
+      "TF-IDF Score": 0.0471631650888436
+    },
+    {
+      "Keyword": "щоб",
+      "TF-IDF Score": 0.04635223783224292
+    },
+    {
+      "Keyword": "для",
+      "TF-IDF Score": 0.04325218713505612
+    },
+    {
+      "Keyword": "до",
+      "TF-IDF Score": 0.03690206520619561
+    },
+    {
+      "Keyword": "та",
+      "TF-IDF Score": 0.03686260061480671
+    },
+    {
+      "Keyword": "інтернет",
+      "TF-IDF Score": 0.03146175662953612
+    },
+    {
+      "Keyword": "пропозицій",
+      "TF-IDF Score": 0.02806465799730641
+    },
+    {
+      "Keyword": "онлайн",
+      "TF-IDF Score": 0.02563389404381724
+    },
+    {
+      "Keyword": "немає",
+      "TF-IDF Score": 0.02509079233370279
+    },
+    {
+      "Keyword": "школи",
+      "TF-IDF Score": 0.02449525524884725
+    },
+    {
+      "Keyword": "вчителями",
+      "TF-IDF Score": 0.02329692859572029
+    },
+    {
+      "Keyword": "вчителів",
+      "TF-IDF Score": 0.02222394022263205
+    },
+    {
+      "Keyword": "дітей",
+      "TF-IDF Score": 0.02113362215421263
+    },
+    {
+      "Keyword": "інформації",
+      "TF-IDF Score": 0.01982110241896757
+    },
+    {
+      "Keyword": "інтернету",
+      "TF-IDF Score": 0.01920561011816975
+    },
+    {
+      "Keyword": "що",
+      "TF-IDF Score": 0.01832934228061619
+    }
+  ]
+}
