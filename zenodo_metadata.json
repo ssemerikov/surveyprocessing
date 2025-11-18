@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "title": "Survey on the Effectiveness of Information-Digital Environment in General Secondary Education from Parents' Perspective",
+    "description": "This dataset contains survey responses from 5,224 parents of students in general secondary education institutions in Ukraine regarding the effectiveness of information and digital environments in schools. The survey was conducted from October 7 to October 18, 2024, during the period of the ongoing war in Ukraine, which affects the educational process and creates specific challenges for schools. The survey collected responses from parents across 21 regions of Ukraine and the city of Kyiv, examining how they interact with digital platforms used by schools, their assessment of children's digital skills, and their suggestions for improving digital educational environments.",
+    "upload_type": "dataset",
+    "access_right": "open",
+    "license": "CC-BY-ND-4.0",
+    "keywords": [
+      "education",
+      "digital environment",
+      "parents",
+      "survey",
+      "Ukrainian education",
+      "educational technology",
+      "distance learning",
+      "wartime education",
+      "information-digital environment",
+      "general secondary education"
+    ],
+    "creators": [
+      {
+        "name": "Ivaniuk, Iryna",
+        "orcid": "0000-0003-2381-785X",
+        "affiliation": "Institute for Digitalisation of Education of the NAES of Ukraine"
+      },
+      {
+        "name": "Pinchuk, Olha",
+        "orcid": "0000-0002-2770-0838",
+        "affiliation": "Institute for Digitalisation of Education of the NAES of Ukraine"
+      },
+      {
+        "name": "Semerikov, Serhiy",
+        "orcid": "0000-0003-0789-0272",
+        "affiliation": "Institute for Digitalisation of Education of the NAES of Ukraine"
+      }
+    ],
+    "contributors": [
+      {
+        "name": "Institute for Digitalisation of Education of the NAES of Ukraine",
+        "type": "ResearchGroup",
+        "identifiers": {
+          "ROR": "02qqjk369"
+        }
+      }
+    ],
+    "communities": [
+      {"identifier": "zenodo"}
+    ],
+    "language": "ukr",
+    "subjects": [
+      {
+        "term": "Education",
+        "identifier": "http://id.loc.gov/authorities/subjects/sh85040989",
+        "scheme": "url"
+      },
+      {
+        "term": "Educational technology",
+        "identifier": "http://id.loc.gov/authorities/subjects/sh85040989",
+        "scheme": "url"
+      },
+      {
+        "term": "Digital divide",
+        "identifier": "http://id.loc.gov/authorities/subjects/sh2002000314",
+        "scheme": "url"
+      }
+    ],
+    "dates": [
+      {
+        "start": "2024-10-07",
+        "end": "2024-10-18",
+        "type": "Collected",
+        "description": "Data collection period"
+      }
+    ],
+    "method": "Survey data was collected through an online questionnaire created with Google Forms. The survey link was distributed through Telegram groups of teachers from different regions of Ukraine who participate in educational projects of the NGO 'Agency for Educational Policy Development.' Participation was voluntary and anonymous. The sample is non-representative.",
+    "notes": "The research was conducted as part of research project № 0123U100497 'Methodology of monitoring research on the effectiveness of information and digital environment of general secondary education institutions in the context of Ukraine's European integration' by the Institute for Digitalisation of Education of the National Academy of Educational Sciences of Ukraine.",
+    "locations": [
+      {
+        "place": "Ukraine",
+        "description": "Survey covers 21 regions of Ukraine and the city of Kyiv"
+      }
+    ],
+    "version": "1.0.0",
+    "related_identifiers": []
+  }
+}

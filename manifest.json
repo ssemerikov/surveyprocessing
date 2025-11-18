@@ -1,0 +1,72 @@
+{
+  "files": [
+    {
+      "path": "answers.csv",
+      "description": "Survey responses in CSV format (UTF-8 encoded)",
+      "format": "text/csv",
+      "size": "TBD by uploader",
+      "mediaType": "text/csv",
+      "encoding": "UTF-8"
+    },
+    {
+      "path": "answers.tsv",
+      "description": "Survey responses in TSV format",
+      "format": "text/tab-separated-values",
+      "size": "TBD by uploader",
+      "mediaType": "text/tab-separated-values",
+      "encoding": "UTF-8"
+    },
+    {
+      "path": "answers.xlsx",
+      "description": "Survey responses in Excel format",
+      "format": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size": "TBD by uploader",
+      "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "path": "README.md",
+      "description": "Overview and documentation of the dataset",
+      "format": "text/markdown",
+      "size": "TBD by uploader",
+      "mediaType": "text/markdown"
+    },
+    {
+      "path": "codebook.md",
+      "description": "Description of variables in the dataset",
+      "format": "text/markdown",
+      "size": "TBD by uploader",
+      "mediaType": "text/markdown"
+    },
+    {
+      "path": "LICENSE.txt",
+      "description": "License information (CC BY-ND 4.0)",
+      "format": "text/plain",
+      "size": "TBD by uploader",
+      "mediaType": "text/plain"
+    },
+    {
+      "path": "manifest.json",
+      "description": "Inventory of all files in the package",
+      "format": "application/json",
+      "size": "TBD by uploader",
+      "mediaType": "application/json"
+    },
+    {
+      "path": "metadata.json",
+      "description": "Structured metadata about the dataset",
+      "format": "application/json",
+      "size": "TBD by uploader",
+      "mediaType": "application/json"
+    },
+    {
+      "path": "zenodo_metadata.json",
+      "description": "Metadata formatted for Zenodo submission",
+      "format": "application/json",
+      "size": "TBD by uploader",
+      "mediaType": "application/json"
+    }
+  ],
+  "created": "2025-04-16",
+  "creator": "Institute for Digitalisation of Education of the NAES of Ukraine",
+  "title": "Survey on the Effectiveness of Information-Digital Environment in General Secondary Education from Parents' Perspective"
+}

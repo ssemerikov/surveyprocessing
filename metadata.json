@@ -1,0 +1,114 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "Survey on the Effectiveness of Information-Digital Environment in General Secondary Education from Parents' Perspective",
+  "description": "This dataset contains survey responses from 5,224 parents of students in general secondary education institutions in Ukraine regarding the effectiveness of information and digital environments in schools. The survey was conducted from October 7 to October 18, 2024, during the period of the ongoing war in Ukraine.",
+  "keywords": [
+    "education",
+    "digital environment",
+    "parents",
+    "survey",
+    "Ukrainian education",
+    "educational technology",
+    "distance learning",
+    "wartime education",
+    "information-digital environment",
+    "general secondary education"
+  ],
+  "creator": [
+    {
+      "@type": "Person",
+      "name": "Iryna Ivaniuk",
+      "identifier": "https://orcid.org/0000-0003-2381-785X"
+    },
+    {
+      "@type": "Person",
+      "name": "Olha Pinchuk",
+      "identifier": "https://orcid.org/0000-0002-2770-0838"
+    },
+    {
+      "@type": "Person",
+      "name": "Serhiy Semerikov",
+      "identifier": "https://orcid.org/0000-0003-0789-0272"
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "Institute for Digitalisation of Education of the National Academy of Educational Sciences of Ukraine",
+    "identifier": "https://ror.org/02qqjk369"
+  },
+  "datePublished": "2025-04-16",
+  "temporalCoverage": "2024-10-07/2024-10-18",
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "Ukraine",
+    "description": "Survey covers 21 regions of Ukraine and the city of Kyiv"
+  },
+  "license": "https://creativecommons.org/licenses/by-nd/4.0/",
+  "encodingFormat": ["text/csv", "text/tab-separated-values", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"],
+  "contentURL": "https://doi.org/10.5281/zenodo.15231534",
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "Demographics",
+      "description": "Demographic information of parents including age, gender, and region"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Child's education",
+      "description": "Information about children's grade level and educational institution"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Digital platforms",
+      "description": "Educational platforms and digital tools used by schools"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Communication channels",
+      "description": "Methods of communication between parents and teachers"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Digital skills",
+      "description": "Assessment of children's digital skills and learning independence"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Technical resources",
+      "description": "Access to devices and technical support for distance learning"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Improvement suggestions",
+      "description": "Parents' suggestions for improving the digital environment in schools"
+    }
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "answers.csv",
+      "contentSize": "TBD by uploader"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/tab-separated-values",
+      "contentUrl": "answers.tsv",
+      "contentSize": "TBD by uploader"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "contentUrl": "answers.xlsx",
+      "contentSize": "TBD by uploader"
+    }
+  ],
+  "isAccessibleForFree": true,
+  "inLanguage": "uk",
+  "funder": {
+    "@type": "Organization",
+    "name": "National Academy of Educational Sciences of Ukraine"
+  },
+  "sameAs": "https://doi.org/10.5281/zenodo.15231534"
+}
